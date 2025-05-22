@@ -1,0 +1,50 @@
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\bin\Debug\Fitness Zone.exe.config
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\bin\Debug\Fitness Zone.exe
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\bin\Debug\Fitness Zone.pdb
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.csproj.AssemblyReference.cache
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Properties.Resources.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.csproj.GenerateResource.cache
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.exe
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.pdb
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Curd.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Home.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Login.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Registration.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.About.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Contact.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.DiatChart.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.FemaleTrainer.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Gain.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Loss.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Payment.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Shredded.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.TimeClass.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Trainer.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.TrainerMale.resources
+C:\Users\selim\Desktop\project\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.MemberShip.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\bin\Debug\Fitness Zone.exe.config
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\bin\Debug\Fitness Zone.exe
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\bin\Debug\Fitness Zone.pdb
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.csproj.AssemblyReference.cache
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.About.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Contact.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Curd.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.DiatChart.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.FemaleTrainer.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Gain.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Home.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Login.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Loss.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.MemberShip.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Payment.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Properties.Resources.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Registration.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Shredded.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.TimeClass.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.Trainer.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness_Zone.TrainerMale.resources
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.csproj.GenerateResource.cache
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.exe
+C:\Users\selim\Desktop\Main Project File\17-8-23\Fitness Zone\obj\Debug\Fitness Zone.pdb
